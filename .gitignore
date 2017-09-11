@@ -131,3 +131,4 @@ modules.xml
 .idea/misc.xml
 
 src/main/resources/application.properties
+application.properties
