@@ -129,3 +129,5 @@ fabric.properties
 
 modules.xml
 .idea/misc.xml
+
+src/main/resources/application.properties
