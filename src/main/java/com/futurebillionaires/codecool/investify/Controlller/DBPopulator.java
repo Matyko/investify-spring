@@ -1,6 +1,6 @@
 package com.futurebillionaires.codecool.investify.Controlller;
 
-import com.futurebillionaires.codecool.investify.Database.DBHandler;
+import com.futurebillionaires.codecool.investify.Database.*;
 import com.futurebillionaires.codecool.investify.Model.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
